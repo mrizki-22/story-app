@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="error_min_password_length">Minimum 8 characters</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome to W Story</string>
+    <string name="welcome_login">Please log in first</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">W Story Logo</string>
+    <string name="have_account">Don\'t have an account yet?</string>
+    <string name="register_here"><u>Register here</u></string>
+    <string name="error_min_name_length">Minimum 3 letters</string>
+    <string name="error_invalid_name">Name can only contain letters</string>
+    <string name="welcome_signup">Please provide the following information</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_password_confirm">Confirm Password</string>
+    <string name="login_here">Log in here</string>
+    <string name="register">Create an account</string>
+    <string name="registration_success">Registration successful, please log in</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="login_success">Login successful</string>
+    <string name="login_failed">Login failed</string>
+    <string name="detail_story">Story Details</string>
+    <string name="content_desc">Story Image</string>
+    <string name="camera">Camera</string>
+    <string name="camera_x">Camera X</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Image is still empty</string>
+    <string name="upload_success">Successfully uploaded the story</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_map">Map</string>
+    <string name="button_language">Change Language</string>
+    <string name="button_logout">Log Out</string>
+    <string name="try_again">Try Again</string>
+    <string name="insert_location">Insert Location</string>
+    <string name="location_not_found">Location not found</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="error_min_password_length">Minimal 8 karakter</string>
+    <string name="login">Masuk</string>
+    <string name="welcome">Selamat datang di W Story</string>
+    <string name="welcome_login">Silahkan login dahulu</string>
+    <string name="error_invalid_email">Format email belum benar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">Logo W Story</string>
+    <string name="have_account">Belum punya akun?</string>
+    <string name="register_here"><u>Daftar disini</u></string>
+    <string name="error_min_name_length">Minimal 3 huruf</string>
+    <string name="error_invalid_name">Nama hanya boleh huruf</string>
+    <string name="welcome_signup">Silahkan isi data berikut</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_password_confirm">Konfirmasi password</string>
+    <string name="login_here">Login disini</string>
+    <string name="register">Buat akun</string>
+    <string name="registration_success">Registrasi sukses, silahkan login</string>
+    <string name="registration_failed">Registrasi gagal</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="login_failed">Login gagal</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="content_desc">Gambar Story</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_x">Camera X</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Gambar masih kosong</string>
+    <string name="upload_success">Berhasil mengunggah story</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_map">Peta</string>
+    <string name="button_language">Ubah Bahasa</string>
+    <string name="button_logout">Log Out</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="insert_location">Masukkan Lokasi</string>
+    <string name="location_not_found">Lokasi tidak ditemukan</string>
+</resources>
